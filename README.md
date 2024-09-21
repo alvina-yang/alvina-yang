@@ -78,6 +78,6 @@ I'm a third-year student at the University of Toronto with a computer science sp
 <p align="center">
 <a href="https://alvinayang.com"><img src="https://img.shields.io/badge/-alvinayang.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/alvina-y-1a823922b/"><img src="https://img.shields.io/badge/-Alvina%20Yang-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alvina.yang@mail.utoronto.ca"><img src="https://img.shields.io/badge/-alvina.yang@example.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:alvina.yang@mail.utoronto.ca"><img src="https://img.shields.io/badge/-alvina.yang@mail.utoronto.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/alvina.yang"><img src="https://img.shields.io/badge/-alvina_yang-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
