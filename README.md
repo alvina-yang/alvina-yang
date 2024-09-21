@@ -4,7 +4,7 @@ I'm a third-year student at the University of Toronto with a computer science sp
 - 📚 **Learning**: Exploring Natural Language Processing (NLPs).
 - ✍️ **Favorite Authors**: R.F. Kuang and Haruki Murakami.
 - 💻 **Currently**: Working on the ABScribe project.
-- 🎢 **Fun fact**: I went skydiving when I was 13!
+- 🎢 **Fun fact**: I went skydiving when I was 14!
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
