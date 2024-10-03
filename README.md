@@ -3,7 +3,7 @@ I'm a third-year student at the University of Toronto with a computer science sp
 ### 🌟 A bit about me:
 - 📚 **Learning**: Exploring Natural Language Processing (NLPs).
 - ✍️ **Favorite Authors**: R.F. Kuang and Haruki Murakami.
-- 🎢 **Fun fact**: I've been to almost 100 coffee shops in Toronto!
+- ☕ **Fun fact**: I've been to almost 100 coffee shops in Toronto!
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
