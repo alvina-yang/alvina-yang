@@ -3,8 +3,7 @@ I'm a third-year student at the University of Toronto with a computer science sp
 ### 🌟 A bit about me:
 - 📚 **Learning**: Exploring Natural Language Processing (NLPs).
 - ✍️ **Favorite Authors**: R.F. Kuang and Haruki Murakami.
-- 💻 **Currently**: Working on the ABScribe project.
-- 🎢 **Fun fact**: I went skydiving when I was 14!
+- 🎢 **Fun fact**: I've been to almost 100 coffee shops in Toronto!
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -25,7 +24,6 @@ I'm a third-year student at the University of Toronto with a computer science sp
 ### ⚙️ Backend
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-FF6C37?style=flat&logo=rest&logoColor=white)
 
