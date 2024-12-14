@@ -1,9 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up! Alvina here :)
 I'm a third-year student at the University of Toronto with a computer science specialist and a mathematics major. I enjoy creating dynamic web applications and exploring the vast world of AI, namely how we can leverage LLMs to enhance education.
-### 🌟 A bit about me:
-- 📚 **Learning**: Exploring Natural Language Processing (NLPs).
-- ✍️ **Favorite Authors**: R.F. Kuang and Haruki Murakami.
-- ☕ **Fun fact**: I've been to almost 100 coffee shops in Toronto!
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
