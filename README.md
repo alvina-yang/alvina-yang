@@ -58,10 +58,13 @@ I'm a third-year student at the University of Toronto with a computer science sp
 ## 📊 Stats
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=alvina-yang&show_icons=true&theme=radical" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=alvina-yang&theme=radical" />
   </br>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvina-yang&layout=compact&theme=radical" />
+  <img width="90%" src="https://github-readme-stats-git-master-alvina-yangs-projects.vercel.app/api/top-langs/?username=alvina-yang&layout=compact&langs_count=10&theme=radical"/>
+
 </p>
+
+
 
 </td>
  </tr>
