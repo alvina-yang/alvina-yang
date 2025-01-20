@@ -48,20 +48,25 @@ I'm a third-year student at the University of Toronto with a computer science sp
 </td>
 
 <td width="40%">
-      <h3 align="center"><strong>📂 Latest Project</strong></h3>
+      <h3 align="center"><strong>📂 Latest Projects</strong></h3>
       <p align="center">
         <a href="https://github.com/alvina-yang/HackerQuest">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=alvina-yang&repo=HackerQuest&theme=radical&show_owner=true" alt="HackerQuest Project" />
         </a>
       </p>
+      </p>
 
 ## 📊 Stats
-
 <p align="center">
   </br>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvina-yang&layout=compact&langs_count=10&theme=radical"/>
-
+  <!-- Top Languages -->
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvina-yang&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
 </p>
+<p align="center">
+  <!-- Streak Stats -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvina-yang&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
 
 
 
