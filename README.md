@@ -2,11 +2,6 @@
 I'm a third-year student at the University of Toronto with a computer science specialist and a mathematics major. I enjoy creating dynamic web applications and exploring the vast world of AI, namely how we can leverage LLMs to enhance education.
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-
-<table width="100%" >
-
- <tr>
-    <td width="60%">
      
 ## 🚀 Skills
 
@@ -45,27 +40,7 @@ I'm a third-year student at the University of Toronto with a computer science sp
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 
-</td>
 
-<td width="40%">
-      <h3 align="center"><strong>📂 Latest Project</strong></h3>
-<p align="center">
-  <a href="https://github.com/Ch3mson/RizzKhalifa">
-    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Ch3mson&repo=RizzKhalifa&theme=radical&show_owner=true" alt="RizzKhalifa Project" />
-  </a>
-</p>
-
-## 📊 Stats
-
-<p align="center">
-  <img width="90%" src="https://github-readme-stats-lime-five-59.vercel.app/api/top-langs/?username=alvina-yang&layout=compact&langs_count=10&theme=radical&count_private=true"/>
-</p>
-
-
-
-</td>
- </tr>
-</table>
 
 ### :link: &nbsp;Connect with me
 
