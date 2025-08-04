@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up! Alvina here :)
-I'm a third-year student at the University of Toronto with a computer science specialist and a mathematics major. I enjoy creating dynamic web applications and exploring the vast world of AI, namely how we can leverage LLMs to enhance education.
+I'm a third-year student at the University of Toronto with a computer science specialist and a mathematics major. I can sometimes write code, I can sometimes read, and I like LLMs.
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
      
